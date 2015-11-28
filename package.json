@@ -1,0 +1,26 @@
+{
+  "name": "o2jam-ng-render",
+  "version": "0.0.1",
+  "description": "Note animation render for o2jam-ng project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/o2jam-ng/o2jam-ng-render.git"
+  },
+  "keywords": [
+    "o2jam",
+    "o2jam-ng",
+    "音游",
+    "节奏",
+    "音游"
+  ],
+  "author": "xbdotl",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/o2jam-ng/o2jam-ng-render/issues"
+  },
+  "homepage": "https://github.com/o2jam-ng/o2jam-ng-render#readme"
+}
